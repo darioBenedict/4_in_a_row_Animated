@@ -1,4 +1,5 @@
-# 4_in_a_row_Animated
+# 4 in a row Python
+Connect 4 with animated movements in Pyton Pygame
 
 inspired in KeithGali's project: https://github.com/KeithGalli/Connect4-Python
 
